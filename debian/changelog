@@ -1,0 +1,11 @@
+zfp (0.5.5-2) focal; urgency=medium
+
+  * Rebuild after updates to debian package metadata.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Wed, 03 Feb 2021 18:20:34 +0200
+
+zfp (0.5.5-1) focal; urgency=low
+
+  * Initial release.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Wed, 03 Feb 2021 11:43:39 +0200
