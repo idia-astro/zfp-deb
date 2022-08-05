@@ -1,3 +1,9 @@
+zfp (0.5.5-3~jammy1) jammy; urgency=medium
+
+  * First Jammy build.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 05 Aug 2022 13:26:50 +0200
+
 zfp (0.5.5-3~focal1) focal; urgency=medium
 
   * Rebuild with correct optimisations and version number.
