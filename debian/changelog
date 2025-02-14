@@ -1,3 +1,9 @@
+zfp (0.5.5-3~noble1) noble; urgency=medium
+
+  * First Noble build.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 14 Feb 2025 16:31:42 +0200
+
 zfp (0.5.5-3~jammy1) jammy; urgency=medium
 
   * First Jammy build.
